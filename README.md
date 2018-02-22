@@ -5,3 +5,4 @@
 * vscode great icon
 * Git history
 * vscode-fileheader
+* filesize
